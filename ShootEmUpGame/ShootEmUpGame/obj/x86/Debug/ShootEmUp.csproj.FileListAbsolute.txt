@@ -1,0 +1,10 @@
+C:\Users\RJL12\OneDrive\Documents\Projects\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.exe
+C:\Users\RJL12\OneDrive\Documents\Projects\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.pdb
+C:\Users\RJL12\OneDrive\Documents\Projects\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.exe
+C:\Users\RJL12\OneDrive\Documents\Projects\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.pdb
+C:\Users\RJL12\OneDrive\Documents\Projects\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csprojResolveAssemblyReference.cache
+H:\Projects\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.exe
+H:\Projects\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.pdb
+H:\Projects\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csprojResolveAssemblyReference.cache
+H:\Projects\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.exe
+H:\Projects\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.pdb

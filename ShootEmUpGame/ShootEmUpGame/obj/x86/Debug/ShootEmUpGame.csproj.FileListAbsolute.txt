@@ -1,0 +1,5 @@
+H:\Projects\ShootEmUpGame\ShootEmUpGame\obj\x86\Debug\ShootEmUpGame.csprojResolveAssemblyReference.cache
+H:\Projects\ShootEmUpGame\ShootEmUpGame\obj\x86\Debug\ShootEmUp.exe
+H:\Projects\ShootEmUpGame\ShootEmUpGame\obj\x86\Debug\ShootEmUp.pdb
+H:\Projects\ShootEmUpGame\ShootEmUpGame\bin\Debug\ShootEmUp.exe
+H:\Projects\ShootEmUpGame\ShootEmUpGame\bin\Debug\ShootEmUp.pdb

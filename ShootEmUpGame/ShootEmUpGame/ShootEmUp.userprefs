@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C909F365-C915-40E4-8AD0-C1286594368A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ShootEmUp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="2" />
+      <File FileName="Player.cs" Line="1" Column="1" />
+      <File FileName="Enemy.cs" Line="4" Column="17" />
+      <File FileName="Unit.cs" Line="8" Column="1" />
+      <File FileName="Properties\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Game.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
